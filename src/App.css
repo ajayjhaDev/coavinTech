@@ -1,0 +1,8 @@
+ul > li > a {
+  color: rgb(144, 0, 255) !important;
+  cursor: pointer !important;
+}
+
+ul > li > a:hover {
+  background-color: rgb(19, 19, 11) !important;
+}
